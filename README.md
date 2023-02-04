@@ -1,1 +1,1 @@
-# tmux-config
+`https://github.com/tmux-plugins/tpm`
